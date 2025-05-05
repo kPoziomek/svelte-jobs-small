@@ -1,3 +1,8 @@
+# SvelteKit + Tailwind CSS + TypeScript + Vitest + Prettier + Eslint
+This Project is created basted on Brad Traversy https://github.com/bradtraversy/vue-crash-2024, but with SvelteKit and Tailwind CSS.
+
+Just for fun, and to learn SvelteKit.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
